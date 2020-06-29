@@ -5,7 +5,7 @@
 #
 # Create Date: 06-25-2020
 #
-# Purpose: Loads Alameda Country Social Services data into table TBL_AHS_SSA
+# Purpose: Loads text delimited file into a database table.
 #
 # Revisions:
 #
